@@ -1,0 +1,39 @@
+body{
+    background-color: #f1f1f1;
+    color:#6D6E70;
+    text-align: center;
+}
+.cajaInfo{
+    margin: 10em auto;
+}
+.titulo{
+    font-family: 'Lobster', cursive;
+    color:#563d7c;
+    padding: .3em;
+}
+.parrafo{
+    font-family: 'Nunito', sans-serif;
+}
+.boton{
+    background-color: #563d7c;
+    border-radius: 2em;
+    padding: .7em 1.2em;
+    width: 9em;
+    margin: 0px auto;
+}
+.boton:hover{
+    background-color:#cbbde2;
+    transition: 500ms;
+    cursor: pointer;
+}
+a{
+    color:#FFF;
+    font-size: 18pt;
+    text-decoration: none;
+    font-family: 'Lobster Two', cursive;
+}
+a:hover{
+    color:#563d7c;
+    transition: 500ms;
+    cursor: pointer;
+}
